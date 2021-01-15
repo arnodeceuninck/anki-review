@@ -17,6 +17,9 @@ Currently busy with exams, I plan to start somewhere begin february 2021.
     - [ ] Find out how anki determines which options get showed for rating a card (again, hard, good, easy)
     - [ ] Find out how anki determines the new ease and due date
     - [ ] Sending review result to anki connect
+  
+## Better idea
+Save myself some time and try to port [ankiTab](https://github.com/corollari/ankiTab). This is already built using ankiConnect in javascript.
 
 ## Main idea
 Have anki running on your computer with the anki-connect plugin installed. This script sends HTTP  requests to anki-connect, to get your decks and cards from a deck, so they can be viewed, rated (again, hard, good, easy) and the new parameters sent back to anki-connect.
